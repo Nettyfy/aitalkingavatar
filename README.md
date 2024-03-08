@@ -19,6 +19,12 @@ Our AI Talking Avatar Application is ideal for businesses, educators, content cr
 - Entertainment: Produce captivating content for streaming, gaming, and social media with unique avatar personalities.
 - Virtual Meetings: Make remote communications more personal and engaging with realistic avatars representing participants.
 
+## Demo
+
+https://github.com/Nettyfy/aitalkingavatar/assets/134055538/54503ed9-0499-4989-9dc9-91c27e8a8a06
+
+
+
 ## Get Started
 
 To explore the potential of our AI Talking Avatar Application and how it can benefit your digital strategy, please visit our GitHub repository. Dive into the world of interactive avatars and redefine your online interactions today!
